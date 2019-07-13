@@ -2,7 +2,7 @@
 Hangman Game with a Eel local webserver.
 
 ## Play Hangman
-
+![](./gif/1563018688.gif)
 ### Source
 Install Eel.
 
